@@ -1,0 +1,10 @@
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\DAL.dll.config
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\DAL.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\DAL.pdb
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\obj\Debug\DAL.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\WebApplication1\DAL\obj\Debug\DAL.pdb

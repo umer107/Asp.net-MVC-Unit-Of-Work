@@ -1,0 +1,9 @@
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\bin\Debug\DAL.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\bin\Debug\DAL.pdb
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Hassan-R\Desktop\WEB-API-Full-Architecture-Boiler-Plate\TestUnitOfWork\BusinessLayer\obj\Debug\BusinessLayer.pdb
